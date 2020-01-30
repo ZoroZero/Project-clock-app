@@ -1,0 +1,13 @@
+body {
+    background-color: #f16059;
+  }
+
+.page{
+    width: 80%;
+    text-align: center;
+    margin: 50px auto;
+}
+
+.page h1{
+    left:50%;
+}
