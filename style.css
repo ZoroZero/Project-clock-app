@@ -6,8 +6,21 @@ body {
     width: 80%;
     text-align: center;
     margin: 50px auto;
+    border-radius: 5px;
 }
 
 .page h1{
-    left:50%;
+    font-family: 'Bungee Shade', cursive;
+    line-height: 48px;
+}
+
+h4{
+    font-size: 21px;
+    font-family: 'Bungee', cursive;
+}
+
+h4 #clock{
+    font-size: 36px;
+    display: block;
+    padding: 5px 0px;
 }
