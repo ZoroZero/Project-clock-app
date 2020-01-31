@@ -1,6 +1,11 @@
 body {
     background-color: #b6f17e;
-  }
+    font: 14px/26px 'Bungee', Helvetica, Arial, sans-serif;
+    color: #222;
+    margin: 0px;
+    padding: 0px;
+    text-transform: uppercase;
+}
 
 .page{
     width: 80%;
@@ -40,4 +45,10 @@ blockquote:before{
 
 blockquote:after{
     content: '"';
+}
+
+#wakeUpTimeSelector, #lunchTimeSelector, #napTimeSelector{
+    width: 15%;
+    height: 40px;
+    margin: 5px;
 }
